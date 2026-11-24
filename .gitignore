@@ -1,0 +1,10 @@
+/build*/
+/sdkconfig
+/sdkconfig.old
+/AGENTS.md
+/.private/
+/.artifacts/
+.env
+.env.*
+*.log
+.DS_Store
